@@ -55,3 +55,5 @@ Justification: Creating a procedure that outputs the total number of movies acto
 Justification: Creating a procedure that takes the movies and returns the streaming platform is important for enhancing customer experience. It allows managers to track where specific movies are available. This can aid them in decisions on which streaming platforms they want to put their movie on. 
 
 # Tableau Dashboard: Provides information about box office revenue based on many different factors
+<img width="826" alt="Screenshot 2024-12-03 at 6 40 13 PM" src="https://github.com/user-attachments/assets/2949f230-28df-4bb5-b2fa-f6c65a6780b0">
+
