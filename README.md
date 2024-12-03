@@ -57,3 +57,10 @@ Justification: Creating a procedure that takes the movies and returns the stream
 # Tableau Dashboard: Provides information about box office revenue based on many different factors
 <img width="826" alt="Screenshot 2024-12-03 at 6 40 13 PM" src="https://github.com/user-attachments/assets/2949f230-28df-4bb5-b2fa-f6c65a6780b0">
 
+Question 1 (top left visualization): Which genres produce the most average revenue?
+
+Question 2 (top right visualization): Which countries have the most box office revenue?
+
+Question 3 (bottom vizualization): Is there a relationship between the number of theaters a movie was shown in and its total revenue? Which movie had the best ratio of number of theaters and total revenue?
+
+We wanted all three of our data visualizations to be revolved around the same idea so that when looking at the dashboard, we can gain a strong understanding of revenue with different factors. This is very important from a managerial perspective, as a company may want to know which country they should play the movie in for the most revenue potential,  which genre they should focus on when producing their next movie, or understanding historical trends on the amount of theaters the movie should be played in and the amount of revenue they should expect to receive. All three of these data visualizations help companies truly understand the market and lets them tap into historical data to understand trends in society and how they can potentially earn the most revenue.
