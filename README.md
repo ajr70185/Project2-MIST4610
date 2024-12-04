@@ -58,10 +58,17 @@ Justification: Creating a procedure that takes the movies and returns the stream
 # Tableau Dashboard: Provides information about box office revenue based on many different factors
 <img width="826" alt="Screenshot 2024-12-03 at 6 40 13 PM" src="https://github.com/user-attachments/assets/2949f230-28df-4bb5-b2fa-f6c65a6780b0">
 
-Question 1 (top left visualization): Which genres produce the most average revenue?
+# Question 1 (top left visualization): Which genres produce the most revenue on average?
 
-Question 2 (top right visualization): Which countries have the most box office revenue?
+This graph is very important from a managerial perspective. If a manager is trying to pitch a certain movie and needs to get approval from a production company, it is imperative that the manager has a good understand of trends in terms of which genres of movies produce the most revenue. For example, if that manager pitches a movie whose genre produces a lower revenue on average, then the production company is not going to want to go through with it. It is important to understand the current market and to stay updated on trends.
 
-Question 3 (bottom vizualization): Is there a relationship between the number of theaters a movie was shown in and its total revenue? Which movie had the best ratio of number of theaters and total revenue?
+# Question 2 (top right visualization): Which countries have the most total box office revenue? 
 
+Comparing different countries is essential in the movie production business, as that is their main source of income. A manager needs to understand which countries were able to produce the most revenue thus far so that when they want to know which countries they should show their movie in, they have a good perception on which countries they should and should not focus in on.
+
+# Question 3 (bottom vizualization): Is there a relationship between the number of theaters a movie was shown in and its total revenue? Which movie had the best ratio of number of theaters and total revenue?
+
+Understanding the relationship between number of theaters and the total revenue helps managers understand historical data from some of the top grossing movies of all time so that when it comes time to release their own movie, they can learn how many theaters they should have their movie playing and the typical amount of revenue they can expect (assuming it is just as popular as the top grossing movies of all time).
+
+# Visualization Summary
 We wanted all three of our data visualizations to be revolved around the same idea so that when looking at the dashboard, we can gain a strong understanding of revenue with different factors. This is very important from a managerial perspective, as a company may want to know which country they should play the movie in for the most revenue potential,  which genre they should focus on when producing their next movie, or understanding historical trends on the amount of theaters the movie should be played in and the amount of revenue they should expect to receive. All three of these data visualizations help companies truly understand the market and lets them tap into historical data to understand trends in society and how they can potentially earn the most revenue.
